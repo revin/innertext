@@ -1,0 +1,33 @@
+{
+  "name": "innertext",
+  "version": "1.0.0",
+  "description": "Extract the innerText from a snippet of HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:revin/innertext.git"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "keywords": [
+    "html",
+    "markup",
+    "extract",
+    "innertext",
+    "inner",
+    "text"
+  ],
+  "author": "Revin Guillen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revin/innertext/issues"
+  },
+  "homepage": "https://github.com/revin/innertext#readme",
+  "dependencies": {
+    "html-entities": "^1.2.0"
+  }
+}
