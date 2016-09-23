@@ -28,7 +28,7 @@ console.log(text); // 'Heading text with some markup'
 The current implementation favors speed and simplicity over other considerations
 like perfect web browser compatibility. For instance:
 
-* malformed HTML (e.g., un-encoded `&lt;` &amp; `&gt;` characters, etc&hellip;)
+* malformed HTML (e.g., un-encoded `<` &amp; `>` characters, etc&hellip;)
   will generally break the text extraction process
 * whitespace around HTML tag/element boundaries gets collapsed into a single
   space, whereas browsers will typically preserve newlines
