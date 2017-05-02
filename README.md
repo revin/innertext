@@ -1,5 +1,7 @@
 # innertext
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/revin/innertext.svg)](https://greenkeeper.io/)
+
 Extract the `innerText` from a snippet of HTML
 
 [![Build Status](https://travis-ci.org/revin/innertext.svg?branch=master)](https://travis-ci.org/revin/innertext)
