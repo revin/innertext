@@ -1,6 +1,6 @@
 {
   "name": "innertext",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extract the innerText from a snippet of HTML",
   "main": "index.js",
   "scripts": {
