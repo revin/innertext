@@ -11,7 +11,7 @@
     "url": "git@github.com:revin/innertext.git"
   },
   "devDependencies": {
-    "mocha": "^4.0.0"
+    "mocha": "^6.0.1"
   },
   "keywords": [
     "html",
